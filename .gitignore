@@ -2,3 +2,8 @@ main
 *.exe
 *.out
 test.jpg
+.clang-format
+.vscode
+CMakeLists.txt
+build/
+.cache
