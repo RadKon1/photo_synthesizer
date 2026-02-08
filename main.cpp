@@ -53,7 +53,6 @@ int main(void) {
     for (Pixel &pixel : image.pixels) {
         std::cout << "R: " << (int)pixel.red << "G: " << (int)pixel.green << "B: " << (int)pixel.blue << std::endl;
     }
-    std::cout << "Hello world!\n";
 
     return 0;
 }
